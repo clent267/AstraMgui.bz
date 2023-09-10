@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">An open-sourced discord bot built using<a href="https://djs.org" target="_blank">Discord.JS</a>.</h4>
+<h4 align="center">Empowering Innovation, Enriching Lives: QuantumSynergy Labs' Commitment to Open-Source Software</h4>
 
 <p align="center">
  <a href="https://github.com/QuantumSynergy-Labs/QuantumBot-MGUI">
